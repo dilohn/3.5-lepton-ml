@@ -1,0 +1,6 @@
+names:
+  0: Human
+path: .
+task: segment
+train: train/images
+val: val/images
